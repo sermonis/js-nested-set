@@ -1,6 +1,4 @@
 # nested-set
-[ ![Codeship Status for netgenes/nested-set](https://app.codeship.com/projects/a2c346d0-b753-0134-a2e6-3617a86d3e20/status?branch=master)](https://app.codeship.com/projects/194505)
-
 Simple helper for nested set. Nest flat or flat nested.
 
 ## Install
