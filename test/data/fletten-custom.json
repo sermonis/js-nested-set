@@ -1,0 +1,58 @@
+[
+	{
+	  "customLeft": 1,
+	  "customRight": 22,
+	  "name": "Clothing"
+	},
+	{
+	  "customLeft": 2,
+	  "customRight": 9,
+	  "name": "Men's"
+	},
+	{
+	  "customLeft": 3,
+	  "customRight": 8,
+	  "name": "Suits"
+	},
+	{
+	  "customLeft": 4,
+	  "customRight": 5,
+	  "name": "Slacks"
+	},
+	{
+	  "customLeft": 6,
+	  "customRight": 7,
+	  "name": "Jackets"
+	},
+	{
+	  "customLeft": 10,
+	  "customRight": 21,
+	  "name": "Women's"
+	},
+	{
+	  "customLeft": 11,
+	  "customRight": 16,
+	  "name": "Dresses"
+	},
+	{
+	  "customLeft": 12,
+	  "customRight": 13,
+	  "name": "Evening Gowns"
+	},
+	{
+	  "customLeft": 14,
+	  "customRight": 15,
+	  "name": "Sun Dresses"
+	},
+	{
+	  "customLeft": 17,
+	  "customRight": 18,
+	  "name": "Skirts"
+	},
+	{
+	  "customLeft": 19,
+	  "customRight": 20,
+	  "name": "Blouses"
+	}
+  ]
+  

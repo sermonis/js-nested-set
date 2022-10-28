@@ -1,0 +1,37 @@
+{
+	"name": "nested-set",
+	"version": "1.0.1",
+	"description": "Fast nested set model helpers. Conversion flatten <-> nested ",
+	"main": "index.js",
+	"directories": {
+	  "test": "test"
+	},
+	"scripts": {
+	  "test": "mocha"
+	},
+	"keywords": [
+	  "nested-set",
+	  "hierarchy",
+	  "data-model",
+	  "hydrate",
+	  "nested",
+	  "fletten",
+	  "nest",
+	  "flat"
+	],
+	"license": "MIT",
+	"devDependencies": {
+	  "chai": "^3.5.0",
+	  "deep-copy": "^1.2.0",
+	  "mocha": "^3.2.0"
+	},
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/sermonis/js-nested-set"
+	},
+	"bugs": {
+	  "url": "https://github.com/sermonis/js-nested-set/issues"
+	},
+	"homepage": "https://github.com/sermonis/js-nested-set"
+  }
+  
